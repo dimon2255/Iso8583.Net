@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="BcdVariableFieldTests.cs" company="John Oxley">
+// <copyright file="BcdVariableFieldTests.cs">
 //   2012
 // </copyright>
 // <summary>

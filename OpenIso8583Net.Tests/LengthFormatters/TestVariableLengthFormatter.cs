@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="TestVariableLengthFormatter.cs" company="John Oxley">
+// <copyright file="TestVariableLengthFormatter.cs">
 //   2012
 // </copyright>
 // <summary>

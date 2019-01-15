@@ -1,5 +1,5 @@
 // --------------------------------------------------------------------------------------------------------------------
-// <copyright file="Adjuster.cs" company="John Oxley">
+// <copyright file="Adjuster.cs">
 //   2012
 // </copyright>
 // <summary>

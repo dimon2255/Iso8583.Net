@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="AMessage.cs" company="John Oxley">
+// <copyright file="AMessage.cs">
 //   2012
 // </copyright>
 // <summary>

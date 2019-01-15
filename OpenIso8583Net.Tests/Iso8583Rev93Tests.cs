@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="Iso8583Rev93Tests.cs" company="John Oxley">
+// <copyright file="Iso8583Rev93Tests.cs">
 //   2012
 // </copyright>
 // <summary>

@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="BinaryFieldFormatterTest.cs" company="John Oxley">
+// <copyright file="BinaryFieldFormatterTest.cs">
 //   2012
 // </copyright>
 // <summary>

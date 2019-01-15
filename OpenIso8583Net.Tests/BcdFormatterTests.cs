@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="BcdFormatterTests.cs" company="John Oxley">
+// <copyright file="BcdFormatterTests.cs">
 //   2012
 // </copyright>
 // <summary>

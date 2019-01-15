@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="Iso8583AsciiMsgTypeTests.cs" company="John Oxley">
+// <copyright file="Iso8583AsciiMsgTypeTests.cs">
 //   2012
 // </copyright>
 // <summary>

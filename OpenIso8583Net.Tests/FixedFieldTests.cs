@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="FixedFieldTests.cs" company="John Oxley">
+// <copyright file="FixedFieldTests.cs">
 //   2012
 // </copyright>
 // <summary>

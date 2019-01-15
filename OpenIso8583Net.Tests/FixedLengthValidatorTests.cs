@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="FixedLengthValidatorTests.cs" company="John Oxley">
+// <copyright file="FixedLengthValidatorTests.cs">
 //   2012
 // </copyright>
 // <summary>

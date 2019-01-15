@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="UtilsTest.cs" company="John Oxley">
+// <copyright file="UtilsTest.cs">
 //   2012
 // </copyright>
 // <summary>

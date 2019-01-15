@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="AdditionalAmountTest.cs" company="John Oxley">
+// <copyright file="AdditionalAmountTest.cs">
 //   2012
 // </copyright>
 // <summary>

@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="BinaryFixedFieldTests.cs" company="John Oxley">
+// <copyright file="BinaryFixedFieldTests.cs">
 //   2012
 // </copyright>
 // <summary>

@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="HashtableMessageTest.cs" company="John Oxley">
+// <copyright file="HashtableMessageTest.cs">
 //   2012
 // </copyright>
 // <summary>

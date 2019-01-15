@@ -1,5 +1,5 @@
 // --------------------------------------------------------------------------------------------------------------------
-// <copyright file="IFieldDescriptor.cs" company="John Oxley">
+// <copyright file="IFieldDescriptor.cs">
 //   2012
 // </copyright>
 // <summary>

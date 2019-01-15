@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="IsoMsgBinaryMsgTypeFormatter.cs" company="John Oxley">
+// <copyright file="IsoMsgBinaryMsgTypeFormatter.cs">
 //   2012
 // </copyright>
 // <summary>

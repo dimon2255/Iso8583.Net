@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="Bitmap.cs" company="John Oxley">
+// <copyright file="Bitmap.cs">
 //   2012
 // </copyright>
 // <summary>
@@ -64,6 +64,9 @@ namespace OpenIso8583Net
             }
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
         public IFormatter Formatter { get; set; }
 
         /// <summary>

@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="ProcessingCodeTest.cs" company="John Oxley">
+// <copyright file="ProcessingCodeTest.cs">
 //   2012
 // </copyright>
 // <summary>

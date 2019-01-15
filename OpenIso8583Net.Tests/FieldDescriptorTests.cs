@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="FieldDescriptorTests.cs" company="John Oxley">
+// <copyright file="FieldDescriptorTests.cs">
 //   2012
 // </copyright>
 // <summary>

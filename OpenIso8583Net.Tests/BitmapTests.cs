@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright company="John Oxley" file="BitmapTests.cs">
+// <copyright file="BitmapTests.cs">
 //   2012
 // </copyright>
 // <summary>

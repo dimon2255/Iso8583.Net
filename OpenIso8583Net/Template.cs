@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="Template.cs" company="John Oxley">
+// <copyright file="Template.cs">
 //   2012
 // </copyright>
 // <summary>

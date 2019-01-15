@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="FieldDescriptor.cs" company="John Oxley">
+// <copyright file="FieldDescriptor.cs">
 //   2012
 // </copyright>
 // <summary>

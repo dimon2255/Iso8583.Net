@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="VariableFieldTests.cs" company="John Oxley">
+// <copyright file="VariableFieldTests.cs">
 //   2012
 // </copyright>
 // <summary>

@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="IsoConvertTests.cs" company="John Oxley">
+// <copyright file="IsoConvertTests.cs">
 //   2012
 // </copyright>
 // <summary>

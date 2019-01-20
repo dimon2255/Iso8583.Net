@@ -10,12 +10,15 @@ namespace OpenIso8583Net
     /// </summary>
     public class Field127 : AMessage, IField
     {
+        /// <summary>
+        /// Default Constructor
+        /// </summary>
         public Field127() : base(GetPrivFieldTemplate()) { }
 
         #region IField Members
 
         /// <summary>
-        ///   Gets the field number that this field representss
+        ///   Gets the field number that this field represents
         /// </summary>
         public int FieldNumber
         {
